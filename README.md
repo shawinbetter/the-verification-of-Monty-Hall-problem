@@ -1,8 +1,7 @@
 # the-verification-of-Monty-Hall-problem
+
 a visual chart about the verification of Monty Hall problem
 
-author : shawinqiu
-last modified dat:2019/1/6 18:55
 
 This program aims to test the monty hall problem and
 give a visual chart for better understanding.
